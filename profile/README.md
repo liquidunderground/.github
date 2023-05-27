@@ -34,5 +34,7 @@ Underground into a healthy and inclusive community:
 ## Our projects 
 
 - [LiquidMS]: A Federated master server for Sonic Robo Blast 2
+- [LiquidLauncher]: A feature-rich launcher for Sonic Robo Blast 2
 
 [LiquidMS]: <https://github.com/zibonbadi/liquidms/>
+[LiquidLauncher]: <https://github.com/zibonbadi/liquidlauncher/>
